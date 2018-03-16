@@ -1,3 +1,3 @@
 # kakaohub
 
-git**hub** -> **kakao**talk
+git**hub** -> **kakao**talk service using AWS lambda
